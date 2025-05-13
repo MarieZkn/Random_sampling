@@ -1,0 +1,1 @@
+This python code was developed by Yannik Ostermann and samples star clusters randomly based on Kroupa (2008) (https://ui.adsabs.harvard.edu/link_gateway/2008LNP...760..181K/doi:10.48550/arXiv.0803.1833) using the formulation of the varying IMF by Yan et al. (2017) (https://ui.adsabs.harvard.edu/link_gateway/2017A&A...607A.126Y/arxiv:1707.04260).
